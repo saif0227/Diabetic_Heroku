@@ -1,0 +1,1 @@
+web:gunicorn app:app  # one app is file name and other app is method name in app.py 
